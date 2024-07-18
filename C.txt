@@ -1,0 +1,19 @@
+File Handline
+   - Create File 
+   - Writing File 
+   - Read File 
+
+   fopen()
+   fclose()
+   fread()
+   fprintf()
+   fgets()
+   fputs() 
+  
+
+   Mode  - R , W , A 
+
+   FILE *ptr 
+
+   ptr = fopen("abc.txt","r");
+   ...................................
